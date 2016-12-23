@@ -26,6 +26,7 @@ public class CountryBean implements Serializable
     public List<SelectItem> countries;
     public SelectItem country;
     
+    
     public SelectItem getCountry(){
         return country;
     }
